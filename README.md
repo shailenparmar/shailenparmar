@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @shailenparmar
+- 👀 I’m interested in drones, spikeball, filmmaking, art, and philosophy
+- 🌱 I’m currently learning about NFTs and DeFi
+- 💞️ I’m looking to collaborate on interesting conversations that lead to projects
+- 📫 How to reach me: twitter @sh__len
