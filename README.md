@@ -1,2 +1,1 @@
-i design novel interfaces from first principles. low latency, tactile, and direct.
-i respect the user and their love of fluency.
+i create playgrounds that nurture fluency. responsive, tactile, and hilarious.  
