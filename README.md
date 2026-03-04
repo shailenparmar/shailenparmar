@@ -1,2 +1,1 @@
-i design fluency playgrounds. <br>
-responsive, tactile, and hilarious.  
+i design extremely high-performance and fun interfaces for everyday products. My style has been refined by two decades of world-class FPV drone racing and radio-control aircraft scratchbuilding. every airframe gram and system latency millisecond is the difference between frustration and fluency. I know what it feels like when a machine melds into my own body-map, and i try to create software that meets this standard.  
