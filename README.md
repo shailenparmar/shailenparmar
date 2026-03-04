@@ -1,1 +1,2 @@
-i create playgrounds that nurture fluency. responsive, tactile, and hilarious.  
+i design fluency playgrounds.
+responsive, tactile, and hilarious.  
